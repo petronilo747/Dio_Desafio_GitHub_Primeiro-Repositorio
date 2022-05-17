@@ -26,8 +26,8 @@
 
 # Links úteis
 
-- Download GT: https://git-scm.com/downloads
+- Download GIT: https://git-scm.com/downloads
 
-- Site Git_Hub: https://github.com/
+- Site GIT_HUB: https://github.com/
 
 - Site DIO: https://web.dio.me/home
